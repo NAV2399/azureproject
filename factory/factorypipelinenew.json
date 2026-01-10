@@ -1,0 +1,9 @@
+{
+	"name": "factorypipelinenew",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76dd45c8-8fd2-46e6-8b11-aaec4871a856",
+		"tenantId": "d96d2beb-4745-4b11-bd12-16fef0c87085"
+	}
+}
